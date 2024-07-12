@@ -1,0 +1,29 @@
+/* style.css */
+
+div{
+    border: 2px solid;
+    height: 75px;
+}
+#p1{
+    overflow: visible;
+    
+}
+#p2{
+    overflow: hidden; 
+}
+#p3{
+    overflow: clip;
+}
+#p4{
+    overflow: scroll; 
+}
+#p5{
+    overflow: auto;
+}
+    /*
+    overflow: visible;
+    overflow: hidden;
+    overflow: clip;
+    overflow: scroll;
+    overflow: auto;
+    */
